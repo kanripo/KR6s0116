@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:48.013449
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:43
 #+TITLE: 開元寺求得經疏記等目錄
 #+PROPERTY: CBETA_ID T55n2169
 #+PROPERTY: ID KR6s0116
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2169
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0116_T_000-1092a>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0116_T_001-1092a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.2169¶
-
- 開元寺求得經疏記等目錄¶
+No. 2169¶
+開元寺求得經疏記等目錄¶
 ¶
 
 日本國求法僧圓珍目錄¶
